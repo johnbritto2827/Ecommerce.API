@@ -1,0 +1,9 @@
+D:\Visual Studio 2017\ECommerce.API\ECommerce.Models\bin\Debug\netcoreapp2.2\ECommerce.Models.deps.json
+D:\Visual Studio 2017\ECommerce.API\ECommerce.Models\bin\Debug\netcoreapp2.2\ECommerce.Models.dll
+D:\Visual Studio 2017\ECommerce.API\ECommerce.Models\bin\Debug\netcoreapp2.2\ECommerce.Models.pdb
+D:\Visual Studio 2017\ECommerce.API\ECommerce.Models\obj\Debug\netcoreapp2.2\ECommerce.Models.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\ECommerce.API\ECommerce.Models\obj\Debug\netcoreapp2.2\ECommerce.Models.AssemblyInfoInputs.cache
+D:\Visual Studio 2017\ECommerce.API\ECommerce.Models\obj\Debug\netcoreapp2.2\ECommerce.Models.AssemblyInfo.cs
+D:\Visual Studio 2017\ECommerce.API\ECommerce.Models\obj\Debug\netcoreapp2.2\ECommerce.Models.dll
+D:\Visual Studio 2017\ECommerce.API\ECommerce.Models\obj\Debug\netcoreapp2.2\ECommerce.Models.pdb
+D:\Visual Studio 2017\ECommerce.API\ECommerce.Models\obj\Debug\netcoreapp2.2\ECommerce.Models.csprojAssemblyReference.cache

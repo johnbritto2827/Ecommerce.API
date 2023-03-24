@@ -1,0 +1,105 @@
+-----------Exception Details on  29-Sep-22 10:44:53 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29-Sep-22 10:44:53 AM
+
+Error Line No : line 68
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'Password', table 'ECommerce.ecom.UserInfo'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  29-Sep-22 10:45:47 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29-Sep-22 10:45:47 AM
+
+Error Line No : line 68
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'LastName', table 'ECommerce.ecom.UserInfo'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  29-Sep-22 10:52:24 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29-Sep-22 10:52:24 AM
+
+Error Line No : line 68
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'Password', table 'ECommerce.ecom.UserInfo'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  29-Sep-22 10:57:18 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29-Sep-22 10:57:18 AM
+
+Error Line No : line 68
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'Address', table 'ECommerce.ecom.UserInfo'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
+-----------Exception Details on  29-Sep-22 10:58:55 AM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 29-Sep-22 10:58:55 AM
+
+Error Line No : line 68
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'Address', table 'ECommerce.ecom.UserInfo'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+
+--------------------------------*End*------------------------------------------
+
+
+

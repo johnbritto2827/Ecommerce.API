@@ -1,0 +1,21 @@
+-----------Exception Details on  28-Sep-22 2:47:46 PM-----------------
+-------------------------------------------------------------------------------------
+
+
+
+Log Written Date: 28-Sep-22 2:47:46 PM
+
+Error Line No : line 65
+
+Error Message: SqlException
+
+Exception Type: System.Data.SqlClient.SqlException
+
+Error Location : Cannot insert the value NULL into column 'ProductImage', table 'ECommerce.ecom.ProductDetails'; column does not allow nulls. INSERT fails.
+The statement has been terminated.
+
+
+--------------------------------*End*------------------------------------------
+
+
+
